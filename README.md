@@ -23,11 +23,12 @@ BS in Electrical Engineering
 ## Experience
 ### Heavy-Duty/Trailer Mechanic
 **Bains Transport, Inc.** - Turlock, CA (2016 – Sept 2023)
-- Diagnosed and repaired electrical/mechanical failures in heavy machinery (e.g., tractors, forklifts)
+- Diagnosed and repaired electrical/mechanical failures in heavy machinery (e.g., tractors, forklifts) using electrical and instrument diagrams. Direct applications to Field Engineering positions.
 - Fabricated and welded (SMAW, GMAW, GTAW) custom parts for equipment modifications
-- Troubleshot hydraulic and pneumatic systems, demonstrating strong analytical skills
+- Troubleshot hydraulic and pneumatic systems, demonstrating strong analytical skills and technical competence.
+- Direct applications to field engineering positions.
 
-### Handyman/Repairman
+### Independent Handyman/Repairman
 **Self-Employed** - Turlock, CA (2018 – present)
 - Designed and built custom structures (e.g., sheds, racks, cabinetry) using carpentry and metalworking skills
 - Repaired household electrical systems (e.g., wiring, outlets) and appliances
@@ -41,7 +42,7 @@ BS in Electrical Engineering
 
 ## Technologies and Skills
 - **Languages:** Python, MATLAB, C/C++
-- **Technologies:** ROS2, AutoCAD, Fusion, Vitis, Ollama, LaTeX
+- **Technologies:** ROS2, AutoCAD, Fusion, Vitis, Ollama, LaTeX, `git` based version control
 - **Mechanical Systems:** Hydraulics, pneumatics, machining, welding (SMAW/GTAW/GMAW), fabrication
 - **Electrical:** PCB design, wiring, soldering, motor controls
 - **Tools:** Oscilloscopes, multimeters, 3D printing, machining (manual/CNC), hand/power tools
