@@ -35,9 +35,9 @@ BS in Electrical Engineering
 
 ### Board Member
 **Sikh Student Association** - Santa Barbara, CA (Sept 2023 – June 2025)
-- Led biweekly meetings discussing Sikh theological and philosophical topics
+- Led biweekly meetings discussing Sikh theological and philosophical topics, facilitated inclusive discussions.
 - Organized yearly Langar community kitchen event, coordinating transport, budgets, and food distribution
-- Coordinated with national organization United Sikh Movement
+- Coordinated with national organization United Sikh Movement to develop leadership skills and train new members.
 
 ## Technologies and Skills
 - **Languages:** Python, MATLAB, C/C++
